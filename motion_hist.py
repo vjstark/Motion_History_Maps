@@ -4,7 +4,7 @@ import os
 from extract import findAOIs
 
 username = "admin"
-password2 = "Iconsense1234"
+password2 = ""
 ip = '192.168.1.3'
 port = "554"
 port2 = "7159"
